@@ -26,7 +26,7 @@ POST http://localhost:8080/v1/clients
 Content-Type: application/json
 
 {
-  "name": "Petya",
+  "name": "Vasya",
   "email": "234asdf21@asd",
   "phone": "12sadf432",
   "gender": "MALE"
